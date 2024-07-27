@@ -18,7 +18,7 @@ const userSchema = new mongoose.Schema({
     },
     avatar:{
         type:String,
-        default:"https://static-00.iconduck.com/assets.00/profile-circle-icon-2048x2048-cqe5466q.png"
+        default:"https://thumbs.dreamstime.com/b/default-avatar-profile-icon-vector-social-media-user-image-182145777.jpg"
     }
 },{
     timestamps:true
